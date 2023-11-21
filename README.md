@@ -8,4 +8,4 @@ cwb-encode -xsBv -d /data/corpora/cwb/dass2023 -f DASS_CQP_2023.txt -R /usr/loca
 
 cwb-encode -xsBv -d /data/corpora/cwb/dass2023 -f DASS_CQP_2023.txt -R /usr/local/share/cwb/registry/dass2023 -P pos -P lemma -P speaker -P sector -P location -P state -P gender -P age -P agelevel -P socialstatus -P education -P ethnicity -P worldview -P lagsclass -P dasstype
 
-cwb-make -V DASS2023```
+cwb-make -V DASS2023
