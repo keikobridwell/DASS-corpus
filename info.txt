@@ -1,0 +1,20 @@
+Keiko Bridwell and Katherine Ireland, University of Georgia (2023)
+"Do you reckon? Creating and testing a corpus of spoken Southern American English from the Digital Archive of Southern Speech (1970-1983)"
+########################################
+
+Attributes:
+speaker: LAGS-assigned ID number
+sector: see the map created by Jonathan Jones in sectors.pdf
+location: (ET = East Tennessee, UG = Upper Georgia, LG = Lower Georgia, EF = East Florida, MT = Middle Tennessee, UA = Upper Alabama, LA = Lower Alabama, GA = Gulf Alabama, WF = West Florida, WT = West Tennessee, UM = Upper Mississippi, LM = Lower Mississippi, GM = Gulf Mississippi, EL = East Louisiana, AR = Arkansas, WL = West Louisiana, UT = Upper Texas, LT = Lower Texas)
+state: two-letter postal abbreviation
+gender: (M = male, F = female)
+age: in years
+agelevel: four bins (1 = 13-45 years old, 2 = 46-65 years old, 3 = 66-76 years old, 4 = 77-99 years old)
+socialstatus: (1 = Lower, 2 = Lower Middle, 3 = Upper Middle, 4 = Upper)
+education: number of year binned as (1 = 0-7, 2 = 8-10, 3 = 11-12, 4 = 13-16+)
+ethnicity: (1 = Non-Black,  2 = Black)
+worldview: (A = insular, B = wordly)
+lagsclass: (Kurath Type: I = older, less-educated, less connected, II = younger, better-educated, better connected, III= best-educated, highly culturally aware, well-connected; Kurath subtype: A= old-fashioned, insular, B=modern, worldy; LAGS speaker type: folk, common, cultured)
+dasstype: (1 = European American Type I, 2 = EA Type II, 3 = EA Type III, AA = African American)
+
+Interviewer or auxiliary speech is labeled NA for all characteristics
