@@ -1,6 +1,6 @@
 # CWB Encoding Instructions
 
-To load the verticalized text file DASS_CWP_2023.txt onto a CWB server, load the DASS_CQP_2023.txt file into your current directory (within the corpus server) and run the following code:
+To load the verticalized text file DASS_CWP_2023.txt (under "Releases") onto a CWB server, load the file into your current directory (within the corpus server) and run the following code:
 
 ```mkdir /data/corpora/cwb/dass2023
 
