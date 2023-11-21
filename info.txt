@@ -1,6 +1,6 @@
 Keiko Bridwell and Katherine Ireland, University of Georgia (2023)
 "Do you reckon? Creating and testing a corpus of spoken Southern American English from the Digital Archive of Southern Speech (1970-1983)"
-########################################
+##########################################################################################################################################
 
 Attributes:
 speaker: LAGS-assigned ID number
